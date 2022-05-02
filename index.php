@@ -2,7 +2,7 @@
     $paragraph = "hello world hello world";
 ?>
 
-<h1>My first work with PhP</h1>
+<h1>My first PhP program</h1>
 
 <p><?php echo $paragraph ?></p>
 <span>Il numero di caratteri della stringa è: <?php echo strlen($paragraph) ?></span>
